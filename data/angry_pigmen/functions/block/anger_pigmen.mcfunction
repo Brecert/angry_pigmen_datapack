@@ -1,0 +1,1 @@
+data merge entity @s {Anger:8000}

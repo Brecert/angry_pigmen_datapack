@@ -1,0 +1,1 @@
+execute as @a if score @s ap.mined matches 1.. run function angry_pigmen:event/mined
